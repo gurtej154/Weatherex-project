@@ -5,3 +5,8 @@ body {
 .hero-body {
     background-color: #000000;
 }
+
+.title,
+.subtitle {
+    font-family: 'Montserrat', sans-serif;
+}
