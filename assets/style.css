@@ -3,27 +3,3 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-body {
-
-}
-
-.flex-container {
-    display: flex; 
-    justify-content: space-between;
-    background-color: #000000;
-}
-
-.control {
-    
-}
-
-.hero-body {
-    background-color: #000000;
-}
-
-.title,
-.subtitle {
-    font-family: 'Montserrat', sans-serif;
-}
-
