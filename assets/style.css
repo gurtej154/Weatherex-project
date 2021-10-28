@@ -94,7 +94,7 @@ body{
 
 button, #search-button {
     color: #fff;
-    display: flex;
+    /* display: flex; */
     background: rgba(24,24,27, 0.6);
     padding:10px;
     border-radius: 10px;
@@ -104,8 +104,8 @@ button, #search-button {
   
   input.search-bar {
     color: #fff;
-    display: flex;
-    flex-direction: column;
+    /* display: flex;
+    flex-direction: column; */
     background: rgba(24,24,27, 0.6);
     padding:10px;
     border-radius: 10px;
