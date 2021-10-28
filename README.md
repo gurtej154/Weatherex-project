@@ -22,7 +22,7 @@ The following screenshot showcases the weather dashboard of Weatherex and its fu
 ## Website
 
 To access the weather dashboard of Weatherex, please click on the following link: 
-https://gurtej154.github.io/Daily-Scheduler-Project/
+https://gurtej154.github.io/Weatherex-project/
 
 ## License
 Copyright (c) 2021 Gurtej Singh
