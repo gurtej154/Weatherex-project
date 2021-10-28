@@ -17,7 +17,7 @@ const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', '
 
 //OpenWeather API Key
 
-const API_KEY ='97952a7b29268c64f7b3d30284643326';
+const API_KEY ='89ed6f06175e66ed5b6ae7ad0aa8b314';
 
 setInterval(() => {
     const time = new Date();
@@ -78,7 +78,7 @@ function showWeatherData (data){
     </div>
     <div class="weather-item">
         <div>Wind Speed</div>
-        <div>${wind_speed}</div>
+        <div>${wind_speed} Km/h</div>
     </div>
     <div class="weather-item">
         <div>Sunrise</div>
