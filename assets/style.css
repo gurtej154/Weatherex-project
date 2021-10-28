@@ -5,7 +5,8 @@
 }
 
 body{
-    background-image: url('https://source.unsplash.com/1600x900/?landscape');
+    /* background-image: url('https://source.unsplash.com/1600x900/?landscape'); */
+    background-image: url('/daniel-tong-dxYdPSuBr-U-unsplash.jpg');
     background-repeat: no-repeat;
     background-size:cover;
     overflow:hidden;
@@ -32,12 +33,6 @@ body{
 
 .country {
     color: #fff;
-    display: flex;
-    flex-direction: column;
-    background: rgba(24,24,27, 0.5);
-    padding:5px;
-    border-radius: 5px;
-    margin: 10px 0;
 }
 
 .time-zone {
